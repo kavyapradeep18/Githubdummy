@@ -7,6 +7,12 @@ public class FirstTest {
      
      
      System.out.println("Second.main()");
+<<<<<<< HEAD
 	} 
+=======
+     //dghjdghdf
+     System.out.println("Hi");
+	}
+>>>>>>> branch 'master' of https://github.com/kavyapradeep18/Githubdummy.git
 
 }
